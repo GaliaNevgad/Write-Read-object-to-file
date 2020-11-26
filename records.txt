@@ -1,0 +1,60 @@
+Harry Potter and the Philosopher's Stone
+Joanne Rowling
+308
+Bloomsbury
+1997
+10
+Harry Potter and the Chamber of Secrets
+Joanne Rowling
+276
+Bloomsbury
+1998
+12
+The Lord of the Rings: The Fellowship of the Ring
+John Ronald Reuel Tolkien
+445
+George Allen & Unwin
+1954
+15
+The Lord of the Rings: The Two Towers
+John Ronald Reuel Tolkien
+465
+George Allen & Unwin
+1954
+15
+The Call of Cthulhu
+Howard Phillips Lovecraft
+97
+Weird Tales
+1928
+6
+Robinson Crusoe
+Daniel Defoe
+230
+The Englishman
+1719
+5
+Les Enfants du capitaine Grant
+Jules Verne
+640
+Pierre-Jules Hetzel
+1867
+20
+Treasure Island
+Robert Louis Balfour Stevenson
+448
+Young Folks
+1883
+12
+White Fang
+Jack London
+254
+Macmillan and Company
+1906
+11
+Ivanhoe
+Walter Scott
+592
+Hurst, Robinson, and Co
+1819
+15
